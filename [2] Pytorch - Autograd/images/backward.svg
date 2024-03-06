@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.65038mm"
+   height="92.274231mm"
+   viewBox="0 0 174.65038 92.27423"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="backward.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.76702441"
+     inkscape:cx="322.02365"
+     inkscape:cy="194.90905"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.826976,-97.102082)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-55.31469,63.235416)"
+       id="g11">
+      <path
+         d="m 285,194 c 0,-35.899 29.102,-65 65,-65 35.898,0 65,29.101 65,65 0,35.898 -29.102,65 -65,65 -35.898,0 -65,-29.102 -65,-65 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#4ea72e"
+         fill-rule="evenodd"
+         id="path1" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(329.427,210)"
+         id="text1">𝑥</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="39px"
+         transform="translate(360.674,191)"
+         id="text2">3</text>
+      <path
+         d="m 285,350.5 c 0,-35.622 29.102,-64.5 65,-64.5 35.898,0 65,28.878 65,64.5 0,35.622 -29.102,64.5 -65,64.5 -35.898,0 -65,-28.878 -65,-64.5 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#4ea72e"
+         fill-rule="evenodd"
+         id="path2" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(321.669,368)"
+         id="text3">𝑦</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="39px"
+         transform="translate(354.109,349)"
+         id="text4">2</text>
+      <path
+         d="m 484,279 c 0,-35.899 29.102,-65 65,-65 35.898,0 65,29.101 65,65 0,35.898 -29.102,65 -65,65 -35.898,0 -65,-29.102 -65,-65 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#caeefb"
+         fill-rule="evenodd"
+         id="path4" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(529.066,294)"
+         id="text5">+</text>
+      <path
+         d="m 416.553,192.739 62.749,77.29 -3.105,2.521 -62.75,-77.289 z m 64.594,73.216 2.906,13.098 -12.222,-5.535 z"
+         id="path5" />
+      <path
+         d="M 1.44242,-1.38543 63.5679,63.2957 60.6831,66.0665 -1.44242,1.38543 Z M 65.0674,59.0824 69.0527,71.8932 56.4128,67.395 Z"
+         transform="matrix(1,0,0,-1,415,350.893)"
+         id="path6" />
+      <path
+         d="m 614,277 h 128.526 v 4 H 614 Z m 126.526,-4 12,6 -12,6 z"
+         id="path7" />
+      <text
+         fill="#c04f15"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="24px"
+         transform="translate(838.384,365)"
+         id="text7">𝑔𝑟𝑎𝑑</text>
+      <text
+         fill="#c04f15"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="24px"
+         transform="translate(892.31,365)"
+         id="text8">_</text>
+      <text
+         fill="#c04f15"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="24px"
+         transform="translate(901.144,365)"
+         id="text9">𝑓𝑛</text>
+      <path
+         d="m 731,259 c 56.333,0 102,3.805 102,8.5 v 180 c 0,4.695 -45.667,8.5 -102,8.5"
+         stroke="#c04f15"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path9" />
+      <path
+         d="m 731.191,457.754 -381.2,-1.709 0.018,-4 381.2,1.709 z m -379.218,2.3 L 340,454 l 12.027,-5.946 z"
+         fill="#c04f15"
+         id="path10" />
+      <text
+         fill="#c04f15"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(683.107,269)"
+         id="text10">𝑧</text>
+      <text
+         fill="#c04f15"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="24px"
+         transform="translate(543.188,448)"
+         id="text11">𝑏𝑎𝑐𝑘𝑤𝑎𝑟𝑑</text>
+    </g>
+  </g>
+</svg>
