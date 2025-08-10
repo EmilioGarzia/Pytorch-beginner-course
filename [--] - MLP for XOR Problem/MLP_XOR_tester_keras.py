@@ -52,13 +52,13 @@ def train_model():
 
     plot_decision_boundary(np.array(X_train),np.array(y_train), model)
 
-    model.save("MLP_XOR.h5")
+    model.save("MLP_keras.h5")
 
 
 # Main
 if __name__ == "__main__":
     try:
-        model = load_model("MLP_XOR.h5")
+        model = load_model("MLP_keras.h5")
         A = None
         B = None    
 
