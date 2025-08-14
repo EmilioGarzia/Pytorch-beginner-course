@@ -34,10 +34,10 @@ print(version)
 I suggest to have a basic knowledge of:
 
 - Machine Learning theory (most important)
-- `Numpy` (reccommended)
-- `Matplotlib` (reccommended)
-- `Pandas` library (optional)
-
+- `Numpy` 
+- `Matplotlib` 
+- `Pandas`
+- `PIL`
 
 # References
 
